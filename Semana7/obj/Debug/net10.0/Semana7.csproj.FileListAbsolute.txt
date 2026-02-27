@@ -12,3 +12,4 @@ C:\Users\CarlosGC\OneDrive\Tercer Semestre\Estructura de Datos\Estructura_datos\
 C:\Users\CarlosGC\OneDrive\Tercer Semestre\Estructura de Datos\Estructura_datos\Semana7\obj\Debug\net10.0\Semana7.pdb
 C:\Users\CarlosGC\OneDrive\Tercer Semestre\Estructura de Datos\Estructura_datos\Semana7\obj\Debug\net10.0\Semana7.genruntimeconfig.cache
 C:\Users\CarlosGC\OneDrive\Tercer Semestre\Estructura de Datos\Estructura_datos\Semana7\obj\Debug\net10.0\ref\Semana7.dll
+C:\Users\CarlosGC\OneDrive\Tercer Semestre\Estructura de Datos\Estructura_datos\Semana7\obj\Debug\net10.0\Semana7.sourcelink.json

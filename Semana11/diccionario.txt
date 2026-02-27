@@ -1,0 +1,11 @@
+Time|Tiempo
+Person|Persona
+Year|Año
+Way|Camino
+Day|Día
+Thing|Cosa
+Man|Hombre
+World|Mundo
+Life|Vida
+Hand|Mano
+dog|perro
